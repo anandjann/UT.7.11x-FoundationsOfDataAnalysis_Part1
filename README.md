@@ -1,6 +1,6 @@
-UTAustinX-UT.7.01x-Foundations-of-Data-Analysis
+#UTAustinX-UT.7.01x-Foundations-of-Data-Analysis
 
-About this Course
+##About this Course
 
 In a world that’s full of data, we have many questions: How long do animals in a shelter have to wait until they are adopted? Can we model the growth of internet usage in a country? Do films with a more adult rating make more money that other rated films?
 
@@ -12,7 +12,7 @@ We’ll cover basic Descriptive Statistics in our first “Unit” – learning 
 
 This course is intended to have the same “punch” as a typical introductory undergraduate statistics course, with an added twist of modeling. This course is also intentionally devised to be sequential, with each new piece building on the previous topics. Once completed, students should feel comfortable using basic statistical techniques to answer their own questions about their own data, using a widely available statistical software package (R).
 
-Course Outline
+##Course Outline
 
 Week 1: Introduction to Data
 
