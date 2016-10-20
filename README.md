@@ -20,4 +20,4 @@ Week 2: Univariate Descriptive Statistics
 
 Week 3: Bivariate Distributions
 
-Week 3: Bivariate Distributions(Categorical Data)
+Week 4: Bivariate Distributions(Categorical Data)
