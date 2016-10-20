@@ -19,3 +19,5 @@ Week 1: Introduction to Data
 Week 2: Univariate Descriptive Statistics
 
 Week 3: Bivariate Distributions
+
+Week 3: Bivariate Distributions(Categorical Data)
