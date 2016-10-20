@@ -21,8 +21,3 @@ nrow(animaldata[animaldata$Animal.Type=="Dog" & animaldata$Intake.Type =="Owner 
 #d What was the mean number of days that the dogs referenced in Question 1c spent at the shelter before being returned to their owner? (Round to 1 decimal place.)
 round(mean(animaldata[animaldata$Animal.Type=="Dog" & animaldata$Intake.Type =="Owner Surrender" & animaldata$Outcome.Type == "Return to Owner",]$Days.Shelter),1)
 
-#Question2
-
-
-#2
-
