@@ -21,3 +21,7 @@ Week 2: Univariate Descriptive Statistics
 Week 3: Bivariate Distributions
 
 Week 4: Bivariate Distributions(Categorical Data)
+
+Week 5: Linear Functions
+
+Week 6: Exponential and Logistic Function Models
